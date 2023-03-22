@@ -1,0 +1,24 @@
+ POST / signup
+    
+  accepts: name, email, password, mobile, country, gender
+  returns: id, token
+
+POST/ login
+
+    accepts: username password
+    returns: id, name of user, token
+
+POST/ logout
+
+    accepts: token,
+    returns: success
+
+GET/profile
+   retuns: name, email, password, mobile, country, gender
+
+GET/profile/userid/feed(posts)
+
+POST/profile/userid/feed
+
+//Extraa//
+
