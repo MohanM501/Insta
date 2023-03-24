@@ -22,3 +22,11 @@ POST/profile/userid/feed
 
 //Extraa//
 
+ "name":"mohan8",
+  "username":"moh234",
+  "email":"mohan@gmail.com",
+  "password":"123",
+  "mobile":"123",
+  "country":"India",
+  "gender":"male"
+
